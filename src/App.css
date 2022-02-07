@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+
+.Line1 {
+  position: absolute;
+  width: 74px;
+  height: 59px;
+  left: 890px;
+  top: 93px;
+
+  font-family: Bebas Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 85px;
+}
+
+.Line2 {
+  position: absolute;
+  width: 1440px;
+  height: 70px;
+  left: 750px;
+  top: 164px;
+
+  font-family: Tahoma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 35px;
+  /* or 194% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.Line3 {
+  position: absolute;
+  width: 1440px;
+  height: 70px;
+  left: 630px;
+  top: 200px;
+
+  font-family: Tahoma;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 35px;
+  /* or 194% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+}
